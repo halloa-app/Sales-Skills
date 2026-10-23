@@ -149,6 +149,18 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [warm-transfer-execution](skills/warm-transfer-execution/) | Seamless handoff to human reps |
 | [win-loss-reason-extraction](skills/win-loss-reason-extraction/) | Automatically categorize why deals closed or died |
 
+### Halloa B2C Marketing Skills (7)
+
+| Skill | Description |
+|-------|-------------|
+| [halloa-product-context](skills/halloa-product-context/) | Halloa.app product facts, plans, segments, voice and decisions; load first |
+| [paid-ads](skills/paid-ads/) | Meta, Google, TikTok and Reddit ads for a B2C app |
+| [seo-content](skills/seo-content/) | Keyword plan, compare pages, use-case pages and blog |
+| [landing-cro](skills/landing-cro/) | Landing page and waitlist form conversion audits and tests |
+| [app-store-optimization](skills/app-store-optimization/) | App Store and Google Play listings, keywords and screenshots |
+| [paywall-pricing](skills/paywall-pricing/) | Paywall, pricing page, trial flow and annual plan |
+| [lifecycle-retention](skills/lifecycle-retention/) | Activation, cancel flow, win-back and upsell for subscribers |
+
 ## Installation
 
 ### Option 1: CLI Install (Recommended)
